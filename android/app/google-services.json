@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013486873658",
+    "project_id": "loyola-8b679",
+    "storage_bucket": "loyola-8b679.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013486873658:android:d24c216f17a00213c29903",
+        "android_client_info": {
+          "package_name": "com.gurubramha.loyola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxSS5B5Daanx1CjkIAoxy4bHaLsvsKa5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
