@@ -33,9 +33,7 @@ class FCMService {
 
   Future<void> initialize() async {
     try {
-      // Initialize Firebase
-      await Firebase.initializeApp();
-
+    
       // Set up background handler
       FirebaseMessaging.onBackgroundMessage(firebaseMessagingBackgroundHandler);
 
