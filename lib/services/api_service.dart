@@ -7,7 +7,7 @@ import '../models/device.dart';
 
 class ApiService {
   // CHANGE THIS TO YOUR LOCAL IP ADDRESS
-  static const String baseUrl = 'http://192.168.9.167:3001/api';
+  static const String baseUrl = 'https://moises-epideictic-delpha.ngrok-free.dev/api';
 
   // Singleton pattern
   static final ApiService _instance = ApiService._internal();
